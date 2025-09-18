@@ -46,4 +46,4 @@ The project consists of:
 
 ---
 
-## 📂 Project Structure
+
